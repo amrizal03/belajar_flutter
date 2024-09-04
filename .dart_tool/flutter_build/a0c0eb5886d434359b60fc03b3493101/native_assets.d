@@ -1,0 +1,1 @@
+ /home/nusatrip/AndroidStudioProjects/belajar_flutter/.dart_tool/flutter_build/a0c0eb5886d434359b60fc03b3493101/native_assets.yaml: 
